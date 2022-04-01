@@ -1,4 +1,4 @@
-package JavaChallenges;
+package javaChallenges;
 
 public class WithoutRecurtion {
 
